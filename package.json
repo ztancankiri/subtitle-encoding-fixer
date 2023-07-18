@@ -4,7 +4,8 @@
   "description": "This is a node.js application that scans the given root directory recursively for subtitle files and converts file encodings to UTF-8-BOM. ",
   "main": "app.js",
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "git@github.com:ztancankiri/subtitle-encoding-fixer.git"
   },
   "author": "Zafer Tan Cankiri",
   "license": "ISC",
